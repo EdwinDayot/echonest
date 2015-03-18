@@ -3,6 +3,7 @@
     "description": "PHP Library for Echonest API including usefull methods.",
     "keywords": ["echonest"],
     "homepage": "https://github.com/edwindayot/echonest",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Echonest\\": "Echonest/"
