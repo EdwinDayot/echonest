@@ -1,0 +1,22 @@
+{
+    "name": "edwindayot/echonest",
+    "description": "PHP Library for Echonest API including usefull methods.",
+    "keywords": ["echonest"],
+    "homepage": "https://github.com/edwindayot/echonest",
+    "autoload": {
+        "psr-4": {
+            "Echonest\\": "Echonest/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edwin Dayot",
+            "email": "edwin@mangoo-games.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "guzzle/guzzle": "~3.7"
+    },
+    "minimum-stability": "stable"
+}
