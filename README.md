@@ -1,6 +1,10 @@
-# echonest
+# Echonest API
 
-So here you are, searching for usefull methods to request the Echonest API with a speak-like langage.
+[![Latest Stable Version](https://poser.pugx.org/edwindayot/echonest/v/stable)](https://packagist.org/packages/edwindayot/echonest)
+[![Total Downloads](https://poser.pugx.org/edwindayot/echonest/downloads)](https://packagist.org/packages/edwindayot/echonest)
+[![License](https://poser.pugx.org/edwindayot/echonest/license)](https://packagist.org/packages/edwindayot/echonest)
+
+So here you are, searching for usefull methods to request the Echonest API with a speak-like language.
 This Echonest Library helps you in this way, take a look :
 
 ### Initializing
