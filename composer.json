@@ -1,7 +1,7 @@
 {
     "name": "edwindayot/echonest",
     "description": "PHP Library for Echonest API including usefull methods.",
-    "keywords": ["echonest"],
+    "keywords": ["echonest", "music api", "music", "spotify"],
     "homepage": "https://github.com/edwindayot/echonest",
     "license": "MIT",
     "autoload": {
